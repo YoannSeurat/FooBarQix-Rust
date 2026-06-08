@@ -3,6 +3,7 @@
 Right now the projects you can find here are :
 - Ball Bounce
 - FooBarQix
+- Guessing Game
 - Leap Years
 - Manhattan Distance
 - Number to LCD
