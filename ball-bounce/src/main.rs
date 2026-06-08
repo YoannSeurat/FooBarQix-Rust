@@ -1,4 +1,4 @@
-use std::{io::Write, thread, time};
+use std::{thread, time};
 
 fn main() {    
     const WIDTH: usize = 16;
