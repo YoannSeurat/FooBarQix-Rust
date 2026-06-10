@@ -2,6 +2,7 @@
 
 Right now the projects you can find here are :
 - Ball Bounce
+- Diamond
 - FooBarQix
 - Game of Life
 - Guessing Game
